@@ -1,0 +1,63 @@
+thead th{
+    background-color: blue !important;
+    color: white;
+    text-align: center;
+ }
+ .icon{
+  padding-right: 10px !important;
+ }
+ .second-icon{
+   padding-right: 3px !important;
+ }
+ .toggler-btn{
+  position: absolute;
+  left: 320px !important;
+ }
+ .btn-contain{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 16px !important;
+ }
+ .close-btn{
+    position: absolute;
+    right: 12px;
+    top: 5px;
+    color: red;
+ }
+ .close-btn:hover{
+
+    color: red;
+    scale: 1.4;
+ }
+ input{
+    width: 100%;
+    padding: 5px 5px;
+ }
+ select{
+   padding: 5px 5px;
+   margin-bottom: 20px;
+   width: 100%;
+   font-size: 2rem;
+ }
+ .js-render-form{
+   font-size: 2rem;
+ }
+ label{
+   margin-top: 20px;
+ }
+ .title-modal{
+    font-size: 3rem !important;
+    font-weight: 500 !important;
+ }
+ .btn-edit{
+   background-color: blue;
+   color: white;
+ }
+ .btn-delete{
+   background: red;
+    color: white;
+}
+.btn-container{
+   display: flex;
+   justify-content: space-around;
+}

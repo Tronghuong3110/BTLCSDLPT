@@ -1,0 +1,84 @@
+{
+    "customers": [
+        {
+            "id": "KH0001",
+            "ten": "NGUYEN TRONG HUONG",
+            "cmnd": "125976955",
+            "diachi": "BAC NINH",
+            "ngaysinh": "2002-10-31",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0002",
+            "ten": "NGUYEN CANH HUNG",
+            "cmnd": "123456789",
+            "diachi": "HA NOI",
+            "ngaysinh": "2002-04-05",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0003",
+            "ten": "NGUYEN CONG UAN",
+            "cmnd": "234567890",
+            "diachi": "HA NAM",
+            "ngaysinh": "2002-09-21",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0004",
+            "ten": "BUI NGOC HAN",
+            "cmnd": "345678901",
+            "diachi": "THAI BINH",
+            "ngaysinh": "2002-10-21",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0005",
+            "ten": "LE DUY MANH",
+            "cmnd": "4567890123",
+            "diachi": "NGHE AN",
+            "ngaysinh": "2002-03-10",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0006",
+            "ten": "TRAN XUAN TRIEN",
+            "cmnd": "5678901234",
+            "diachi": "HUNG YEN",
+            "ngaysinh": "2002-06-08",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0007",
+            "ten": "NGUYEN XUAN TRUONG",
+            "cmnd": "6789012345",
+            "diachi": "BAC NINH",
+            "ngaysinh": "2002-11-06",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0008",
+            "ten": "VU QUOC VIET",
+            "cmnd": "7890123456",
+            "diachi": "BAC NINH",
+            "ngaysinh": "2002-01-25",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0009",
+            "ten": "NGUYEN HUY HOANG",
+            "cmnd": "8901234567",
+            "diachi": "BAC NINH",
+            "ngaysinh": "2002-12-09",
+            "sdt": "0788392620"
+        },
+        {
+            "id": "KH0010",
+            "ten": "NGUYEN TIEN ANH",
+            "cmnd": "125976955",
+            "diachi": "HHA NOI",
+            "ngaysinh": "2002-02-28",
+            "sdt": "0788392620"
+        }
+    ]
+}
